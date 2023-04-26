@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wheather App</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="sunny">Sunny</string>
+</resources>
